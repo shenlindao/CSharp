@@ -4,12 +4,12 @@
     return N;
 }
 
-bool ValidateNumber (int number) {
-    return number >= 1 && number <= 7;
-};
 
-string CheckWeekend (int number, bool validete) {
-    if (validete) {
+string CheckWeekend (int number) {
+    bool ValidateNumber (int number) {
+        return number >= 1 && number <= 7;
+    };
+    if (ValidateNumber(number)) {
         if (number > 5) {
             string result = "Да";
             return result;
@@ -25,6 +25,5 @@ string CheckWeekend (int number, bool validete) {
 
 Console.WriteLine("Давайте проверим, является ли день выходным");
 int number = GetNumber("Введите номер дня недели (от 1 до 7): ");
-bool validete = ValidateNumber(number);
-string weekEnd = CheckWeekend(number, validete);
+string weekEnd = CheckWeekend(number);
 Console.WriteLine(weekEnd);
