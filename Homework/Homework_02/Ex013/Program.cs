@@ -4,9 +4,9 @@
     return N;
 }
 
-string findThirdNumberOfN (int nLength, int number) {
-    if ( nLength >= 3 ) {
-        while (number > 999) { // Нужна помощь, пробовал ставить while (nLength > 3) - терминал виснет, почему так? пришлось поменять цикл.
+string findThirdNumberOfN (int number) {
+    if (number > 999) {
+        while (number > 999) {
             number = number / 10;
         }
         int thirdOfN = number % 10;
@@ -19,6 +19,6 @@ string findThirdNumberOfN (int nLength, int number) {
 };
 
 int number = GetNumber("Введите число: ");
-int nLength = number.ToString().Length;
-string output = findThirdNumberOfN(nLength, number);
+if (number < 0) number *= -1;
+string output = findThirdNumberOfN(number);
 Console.WriteLine(output);
