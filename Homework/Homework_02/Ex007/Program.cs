@@ -14,6 +14,7 @@ bool ValidateNumber (int number) {
 
 Console.WriteLine("Программа выводит числа от -N до N (максимальное число 100)");
 int number = GetNumber("Введите число N: ");
+if (number < 0) number *= -1;
 bool validate = ValidateNumber(number);
 
 if (validate) {
