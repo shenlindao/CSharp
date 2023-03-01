@@ -57,7 +57,44 @@
 
 # Lecture
 
-- ## Lecture_01
+- ## Lecture_02
+
+    - ### Example001_HelloConsole
+
+        > Привет консоль!<br>
+        [КОД](Lecture/Lecture_01/Example001_HelloConsole/Program.cs)
+
+    - ### Example002_EnterYorName
+
+        > Введите ваше имя<br>
+        [КОД](Lecture/Lecture_01/Example002_EnterYorName/Program.cs)
+
+    - ### Example003_AddTwoRandomNumbers
+
+        > Сложить два рандомных числа<br>
+        [КОД](Lecture/Lecture_01/Example003_AddTwoRandomNumbers/Program.cs)
+
+    - ### Example004_Div
+
+        > Деление чисел<br>
+        [КОД](Lecture/Lecture_01/Example004_Div/Program.cs)
+
+    - ### Example005_ConditionifElse
+
+        > Условие if-else<br>
+        [КОД](Lecture/Lecture_01/Example005_ConditionifElse/Program.cs)
+
+    - ### Example006_Base
+
+        > Нахождение максимального числа<br>
+        [КОД](Lecture/Lecture_01/Example006_Base/Program.cs)
+
+    - ### Example007_Magic
+
+        > Серпинский треугольник в консоли<br>
+        [КОД](Lecture/Lecture_01/Example007_Magic/Program.cs)
+
+- ## Lecture_02
 
     - ### Example008_IntroMethod
 
