@@ -4,7 +4,8 @@
     return N;
 }
 
-string findSecondNumberOfN (int nLength, int number) {
+string findSecondDigitOfN (int number) {
+    int nLength = number.ToString().Length;
     if ( nLength == 3 ) {
         int secondOfN = number / 10 % 10;
         string result = "Вторая цифра введённого числа: " + secondOfN;
@@ -16,6 +17,5 @@ string findSecondNumberOfN (int nLength, int number) {
 };
 
 int number = GetNumber("Введите трёхзначное число: ");
-int nLength = number.ToString().Length;
-string output = findSecondNumberOfN(nLength, number);
+string output = findSecondDigitOfN(number);
 Console.WriteLine(output);
