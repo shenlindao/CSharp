@@ -37,6 +37,10 @@
         [КОД](Homework/Homework_02/Ex010/Program.cs)<br>
         [Блок-схема](Homework/Homework_02/Ex010/diagram.drawio.png)
 
+    - ### Ex011
+        > Дано число из отрезка [10, 99]. Показать наибольшую цифру числа.<br>
+        [КОД](Homework/Homework_02/Ex011/Program.cs)<br>
+
     - ### Ex013
         > Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.<br>
         [КОД](Homework/Homework_02/Ex013/Program.cs)<br>
