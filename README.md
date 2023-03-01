@@ -50,10 +50,10 @@
         [КОД](Homework/Homework_02/Ex013/Program.cs)<br>
         [Блок-схема](Homework/Homework_02/Ex013/diagram.drawio.png)
 
-    - ### Ex015
+    - ### Ex016
         > Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.<br>
-        [КОД](Homework/Homework_02/Ex015/Program.cs)<br>
-        [Блок-схема](Homework/Homework_02/Ex015/diagram.drawio.png)
+        [КОД](Homework/Homework_02/Ex016/Program.cs)<br>
+        [Блок-схема](Homework/Homework_02/Ex016/diagram.drawio.png)
 
 # Lecture
 
@@ -121,15 +121,15 @@
 
 - ## Seminar_01
 
-    - ### Ex001
+    - ### Ex000
 
         > Вывести квадрат числа<br>
-        [КОД](Seminar/Seminar_01/Ex001/Program.cs)<br>
-        [Блок-схема](Seminar/Seminar_01/Ex001/diagram.drawio.png)
+        [КОД](Seminar/Seminar_01/Ex000/Program.cs)<br>
+        [Блок-схема](Seminar/Seminar_01/Ex000/diagram.drawio.png)
 
 - ## Seminar_02
 
-    - ### Ex003
+    - ### Ex015
 
         > Проверить кратно ли введенное число 7 и 23<br>
-        [КОД](Seminar/Seminar_02/Ex003/Program.cs)
+        [КОД](Seminar/Seminar_02/Ex015/Program.cs)
