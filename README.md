@@ -61,6 +61,16 @@
         > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
         [Библиотека методов](Homework/Homework_02/Ex021/Library.cs)<br>
         [КОД](Homework/Homework_02/Ex021/Program.cs)
+    
+    - ### Ex022
+        > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
+        [Библиотека методов](Homework/Homework_02/Ex022/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex022/Program.cs)
+
+    - ### Ex023
+        > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
+        [Библиотека методов](Homework/Homework_02/Ex023/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex023/Program.cs)
 
 # Lecture
 
