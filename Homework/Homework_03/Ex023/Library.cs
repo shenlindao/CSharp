@@ -13,8 +13,8 @@ public static class Library
 
         while (index <= n)
         {
-            int cube = index * index * index;
-            result = result + "[" + index + " => " + cube + "] ";
+            int sqr = index * index;
+            result = result + "[" + index + " => " + sqr + "] ";
             index = index + 1;
         }
         return result;
