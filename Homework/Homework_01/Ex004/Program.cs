@@ -11,13 +11,18 @@ b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число: ");
 c = Convert.ToInt32(Console.ReadLine());
 
-if ((a > b) & (a > c)) {
+if ((a > b) & (a > c))
+{
     max = a;
     Console.Write("Наибольшее число: " + max);
-} else if ((b > a) & (b > c)) {
+}
+else if ((b > a) & (b > c))
+{
     max = b;
     Console.Write("Наибольшее число: " + max);
-} else {
+}
+else
+{
     max = c;
     Console.Write("Наибольшее число: " + max);
 }

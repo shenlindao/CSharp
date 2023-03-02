@@ -1,23 +1,32 @@
-﻿int GetNumber (string text) {
+﻿int GetNumber(string text)
+{
     Console.Write(text);
     int N = Convert.ToInt32(Console.ReadLine());
     return N;
 }
 
 
-string CheckWeekend (int number) {
-    bool ValidateNumber (int number) {
+string CheckWeekend(int number)
+{
+    bool ValidateNumber(int number)
+    {
         return number >= 1 && number <= 7;
     };
-    if (ValidateNumber(number)) {
-        if (number > 5) {
+    if (ValidateNumber(number))
+    {
+        if (number > 5)
+        {
             string result = "Да";
             return result;
-        } else {
+        }
+        else
+        {
             string result = "Нет";
             return result;
         }
-    } else {
+    }
+    else
+    {
         string result = "Неверно введён номер дня недели";
         return result;
     }

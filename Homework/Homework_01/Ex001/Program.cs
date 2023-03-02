@@ -1,16 +1,19 @@
-﻿int GetNumberA(string textA) {
+﻿int GetNumberA(string textA)
+{
     Console.Write(textA);
     int A = Convert.ToInt32(Console.ReadLine());
     return A;
 }
 
-int GetNumberB(string textB) {
+int GetNumberB(string textB)
+{
     Console.Write(textB);
     int B = Convert.ToInt32(Console.ReadLine());
     return B;
 }
 
-bool CheckNumbers(int numberA, int numberB) {
+bool CheckNumbers(int numberA, int numberB)
+{
     return numberB == numberA * numberA ? true : false;
 }
 
@@ -18,8 +21,11 @@ Console.WriteLine("Давайте проверим, является ли пер
 int numberA = GetNumberA("Введите первое число: ");
 int numberB = GetNumberB("Введите второе число: ");
 
-if (CheckNumbers(numberA, numberB)) {
+if (CheckNumbers(numberA, numberB))
+{
     Console.WriteLine("Первое число является квадратом второго");
-} else {
+}
+else
+{
     Console.WriteLine("Первое число НЕ является квадратом второго");
 }

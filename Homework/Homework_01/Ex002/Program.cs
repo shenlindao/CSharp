@@ -4,10 +4,13 @@ Console.WriteLine("Введите первое число: ");
 a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
 b = Convert.ToInt32(Console.ReadLine());
-if (a > b) {
+if (a > b)
+{
     max = a;
     Console.Write("Наибольшее число: " + max);
-} else {
+}
+else
+{
     max = b;
     Console.Write("Наибольшее число: " + max);
 }

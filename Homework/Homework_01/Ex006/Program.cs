@@ -7,9 +7,12 @@ Console.WriteLine("Давайте проверим, чётное число ил
 Console.WriteLine("Введите число: ");
 N = Convert.ToInt32(Console.ReadLine());
 
-if (N % 2 == 0) {
+if (N % 2 == 0)
+{
     result = even;
-} else {
+}
+else
+{
     result = odd;
 }
 Console.Write("Ответ: " + result);

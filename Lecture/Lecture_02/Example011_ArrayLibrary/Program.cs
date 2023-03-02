@@ -1,27 +1,34 @@
-﻿void FillArray (int[] collection) {
+﻿void FillArray(int[] collection)
+{
     int length = collection.Length;
     int index = 0;
-    while (index < length) {
+    while (index < length)
+    {
         collection[index] = new Random().Next(1, 10);
         index++;
     }
 }
 
-void PrintArray (int[] col) {
+void PrintArray(int[] col)
+{
     int count = col.Length;
     int position = 0;
-    while (position < count) {
+    while (position < count)
+    {
         Console.WriteLine(col[position]);
         position++;
     }
 }
 
-int IndexOf (int[] collection, int find) {
+int IndexOf(int[] collection, int find)
+{
     int count = collection.Length;
     int index = 0;
     int position = -1; // искуственно созданеная позиция, для ненайденных элементов
-    while (index < count) {
-        if (collection[index] == find) {
+    while (index < count)
+    {
+        if (collection[index] == find)
+        {
             position = index;
             break;
         }
