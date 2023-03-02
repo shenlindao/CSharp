@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите ваше имя:");
-string username = Console.ReadLine();
-Console.WriteLine("Привет, ");
-Console.WriteLine(username);
+﻿using static Library;
+
+string username = GetName("Введите ваше имя: ");
+Console.WriteLine("Привет, " + username);
