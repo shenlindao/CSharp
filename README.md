@@ -55,6 +55,13 @@
         [КОД](Homework/Homework_02/Ex016/Program.cs)<br>
         [Блок-схема](Homework/Homework_02/Ex016/diagram.drawio.png)
 
+- ## Homework_03
+
+    - ### Ex021
+        > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
+        [Библиотека методов](Homework/Homework_02/Ex021/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex021/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
