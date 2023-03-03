@@ -57,6 +57,11 @@
 
 - ## Homework_03
 
+    - ### Ex005
+        > Напишите программу, вычисления значения функции y = f(a).<br>
+        [Библиотека методов](Homework/Homework_02/Ex005/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex005/Program.cs)
+
     - ### Ex021
         > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
         [Библиотека методов](Homework/Homework_02/Ex021/Library.cs)<br>
