@@ -6,7 +6,7 @@ public static class Library
         return Convert.ToInt32(Console.ReadLine());
     }
 
-    public static string GetResult(int n)
+    public static string SqrtsOfNumbers(int n)
     {
         string result = String.Empty;
         int index = 1;
