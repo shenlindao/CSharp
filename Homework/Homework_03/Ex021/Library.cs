@@ -27,16 +27,16 @@ public static class Library
         }
         return reverse;
     }
-    
+
     public static bool Compare(int n, int reverse)
-{
-    if (n == reverse)
     {
-        return true;
+        if (n == reverse)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
-    else
-    {
-        return false;
-    }
-}
 }
