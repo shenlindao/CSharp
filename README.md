@@ -78,14 +78,19 @@
         [КОД](Homework/Homework_02/Ex021/Program.cs)
     
     - ### Ex022
-        > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
+        > Найти расстояние между точками в пространстве 2D/3D.<br>
         [Библиотека методов](Homework/Homework_02/Ex022/Library.cs)<br>
         [КОД](Homework/Homework_02/Ex022/Program.cs)
 
     - ### Ex023
-        > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
+        > Показать таблицу квадратов чисел от 1 до N.<br>
         [Библиотека методов](Homework/Homework_02/Ex023/Library.cs)<br>
         [КОД](Homework/Homework_02/Ex023/Program.cs)
+
+    - ### Ex025
+        > Найти сумму чисел от 1 до А.<br>
+        [Библиотека методов](Homework/Homework_02/Ex025/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex025/Program.cs)
 
 # Lecture
 
