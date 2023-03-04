@@ -8,7 +8,7 @@ public static class Library
 
     public static double GetDistance(int Ax, int Ay, int Az, int Bx, int By, int Bz)
     {
-        double result = Math.Sqrt(Ax * Ax + Ay * Ay + Az * Az);
+        double result = Math.Sqrt(Math.Pow(Ax - Ay, 2) + Math.Pow(Bx - By, 2) + Math.Pow(Az - Bz, 2));
         return result;
     }
 }
