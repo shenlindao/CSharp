@@ -7,8 +7,11 @@ int numberB = GetNumber("Введите число B: ");
 
 bool isMult = IsMult(numberA, numberB);
 
-if (isMult) {
+if (isMult)
+{
     System.Console.WriteLine("число " + numberA + " кратно " + numberB);
-} else {
+}
+else
+{
     System.Console.WriteLine(NoMult(numberA, numberB));
 }

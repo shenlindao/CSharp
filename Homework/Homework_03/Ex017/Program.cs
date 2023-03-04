@@ -7,8 +7,11 @@ int numberB = GetNumber("Введите число B: ");
 
 bool isSqur = IsSqur(numberA, numberB);
 
-if (isSqur) {
+if (isSqur)
+{
     System.Console.WriteLine("число " + numberA + " является квадратом " + numberB);
-} else {
+}
+else
+{
     System.Console.WriteLine("число " + numberA + " НЕ является квадратом " + numberB);
 }
