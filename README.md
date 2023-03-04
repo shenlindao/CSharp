@@ -62,6 +62,11 @@
         [Библиотека методов](Homework/Homework_02/Ex005/Library.cs)<br>
         [КОД](Homework/Homework_02/Ex005/Program.cs)
 
+    - ### Ex013
+        > Выяснить, кратно ли число заданному, если нет, вывести остаток..<br>
+        [Библиотека методов](Homework/Homework_02/Ex013/Library.cs)<br>
+        [КОД](Homework/Homework_02/Ex013/Program.cs)
+
     - ### Ex021
         > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
         [Библиотека методов](Homework/Homework_02/Ex021/Library.cs)<br>
