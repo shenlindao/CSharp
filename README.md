@@ -92,6 +92,13 @@
         [Библиотека методов](Homework/Homework_03/Ex025/Library.cs)<br>
         [КОД](Homework/Homework_03/Ex025/Program.cs)
 
+- ## Homework_04
+
+    - ### Ex031
+        > Напишите программу, вычисления значения функции y = f(a).<br>
+        [Библиотека методов](Homework/Homework_04/Ex031/Library.cs)<br>
+        [КОД](Homework/Homework_04/Ex031/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
