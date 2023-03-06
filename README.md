@@ -59,38 +59,38 @@
 
     - ### Ex005
         > Напишите программу, вычисления значения функции y = f(a).<br>
-        [Библиотека методов](Homework/Homework_02/Ex005/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex005/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex005/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex005/Program.cs)
 
     - ### Ex013
         > Выяснить, кратно ли число заданному, если нет, вывести остаток.<br>
-        [Библиотека методов](Homework/Homework_02/Ex013/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex013/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex013/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex013/Program.cs)
 
     - ### Ex017
         > По двум заданным числам проверять является ли одно квадратом другого.<br>
-        [Библиотека методов](Homework/Homework_02/Ex017/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex017/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex017/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex017/Program.cs)
 
     - ### Ex021
         > Напишите программу, которая проверяет пятизначное число на палиндром.<br>
-        [Библиотека методов](Homework/Homework_02/Ex021/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex021/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex021/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex021/Program.cs)
     
     - ### Ex022
         > Найти расстояние между точками в пространстве 2D/3D.<br>
-        [Библиотека методов](Homework/Homework_02/Ex022/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex022/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex022/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex022/Program.cs)
 
     - ### Ex023
         > Показать таблицу квадратов чисел от 1 до N.<br>
-        [Библиотека методов](Homework/Homework_02/Ex023/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex023/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex023/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex023/Program.cs)
 
     - ### Ex025
         > Найти сумму чисел от 1 до А.<br>
-        [Библиотека методов](Homework/Homework_02/Ex025/Library.cs)<br>
-        [КОД](Homework/Homework_02/Ex025/Program.cs)
+        [Библиотека методов](Homework/Homework_03/Ex025/Library.cs)<br>
+        [КОД](Homework/Homework_03/Ex025/Program.cs)
 
 # Lecture
 
