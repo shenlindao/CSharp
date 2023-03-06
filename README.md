@@ -170,3 +170,19 @@
 
         > Проверить кратно ли введенное число 7 и 23<br>
         [КОД](Seminar/Seminar_02/Ex015/Program.cs)
+
+- ## Seminar_03
+
+    - ### Ex024
+
+        > Написать программу, которая показывает кубы чисел от 1 до N<br>
+        [Библиотека методов](Homework/Seminar_03/Ex024/Library.cs)<br>
+        [КОД](Seminar/Seminar_03/Ex024/Program.cs)
+
+- ## Seminar_04
+
+    - ### Example30
+
+        > Написать программу, которая выводит массив из N элементов, заполненный 0 и 1 в случайном порядке, где первый элемент массива не равен 0<br>
+        [Библиотека методов](Homework/Seminar_04/Example30/Library.cs)<br>
+        [КОД](Seminar/Seminar_04/Example30/Program.cs)
