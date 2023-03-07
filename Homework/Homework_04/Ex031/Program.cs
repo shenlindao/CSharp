@@ -6,7 +6,7 @@ int[] array = new int[8];
 string? value = String.Empty;
 for (int i = 0; i < array.Length; i++)
 {
-    value = GetValue("Введите число: ");
+    value = GetValue("Введите число № " + i + ": ");
     if (value != null)
     {
         int number = Convert.ToInt32(value);
