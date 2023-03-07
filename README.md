@@ -94,8 +94,23 @@
 
 - ## Homework_04
 
+    - ### Ex026
+        > Возведите число А в натуральную степень B используя цикл.<br>
+        [Библиотека методов](Homework/Homework_04/Ex026/Library.cs)<br>
+        [КОД](Homework/Homework_04/Ex026/Program.cs)
+
+    - ### Ex027
+        > Определить количество цифр в числе.<br>
+        [Библиотека методов](Homework/Homework_04/Ex027/Library.cs)<br>
+        [КОД](Homework/Homework_04/Ex027/Program.cs)
+
+    - ### Ex028
+        > Подсчитать сумму цифр в числе.<br>
+        [Библиотека методов](Homework/Homework_04/Ex028/Library.cs)<br>
+        [КОД](Homework/Homework_04/Ex028/Program.cs)
+
     - ### Ex031
-        > Напишите программу, вычисления значения функции y = f(a).<br>
+        > Задать массив из 8 элементов и вывести их на экран.<br>
         [Библиотека методов](Homework/Homework_04/Ex031/Library.cs)<br>
         [КОД](Homework/Homework_04/Ex031/Program.cs)
 
