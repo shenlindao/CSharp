@@ -114,6 +114,23 @@
         [Библиотека методов](Homework/Homework_04/Ex031/Library.cs)<br>
         [КОД](Homework/Homework_04/Ex031/Program.cs)
 
+- ## Homework_05
+
+    - ### Ex036
+        > Задать массив, заполнить случайными положительными трёхзначными числами. Показать количество четных чисел.<br>
+        [Библиотека методов](Homework/Homework_05/Ex036/Library.cs)<br>
+        [КОД](Homework/Homework_05/Ex036/Program.cs)
+
+    - ### Ex038
+        > Найти сумму чисел одномерного массива стоящих на нечетной позиции.<br>
+        [Библиотека методов](Homework/Homework_05/Ex038/Library.cs)<br>
+        [КОД](Homework/Homework_05/Ex038/Program.cs)
+
+    - ### Ex040
+        > В Указанном массиве вещественных чисел найдите разницу между максимальным и минимальным элементом.<br>
+        [Библиотека методов](Homework/Homework_05/Ex040/Library.cs)<br>
+        [КОД](Homework/Homework_05/Ex040/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
@@ -208,3 +225,19 @@
         > Написать программу, которая выводит массив из N элементов, заполненный 0 и 1 в случайном порядке, где первый элемент массива не равен 0<br>
         [Библиотека методов](Homework/Seminar_04/Example30/Library.cs)<br>
         [КОД](Seminar/Seminar_04/Example30/Program.cs)
+
+- ## Seminar_05
+
+    - ### Ex033
+
+        > Задать массив из 12 элементов, заполненных числами из [0,9]. Найти сумму положительных/отрицательных элементов массива<br>
+        [Библиотека методов](Homework/Seminar_05/Ex033/Library.cs)<br>
+        [КОД](Seminar/Seminar_05/Ex033/Program.cs)
+
+- ## Seminar_06
+
+    - ### Example_turnArray
+
+        > Задать массив из 12 элементов, заполненных числами из [0,9]. Найти сумму положительных/отрицательных элементов массива<br>
+        [Библиотека методов](Homework/Seminar_06/Example_turnArray/Library.cs)<br>
+        [КОД](Seminar/Seminar_06/Example_turnArray/Program.cs)
