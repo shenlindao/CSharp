@@ -19,5 +19,4 @@ for (int i = 0; i < array.Length; i++)
         break;
     }
 }
-// if (value != null) Console.Write("Ваши числа => " + string.Join(", ", array.Take(array.Length - 1)) + ", " + array[length - 1]);
-if (value != null) Console.Write("Вы ввели " + NumbersMoreZero(array) + " чисел больше нуля");
+if (value != null) Console.Write("Во введённых вами чисел столько чисел больше нуля: " + NumbersMoreZero(array));
