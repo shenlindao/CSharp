@@ -25,7 +25,7 @@
 - ## Homework_02
 
     - ### Ex007
-        > Показать числа от -N до N<br>
+        > Показать числа от -N до N.<br>
         [КОД](Homework/Homework_02/Ex007/Program.cs)
 
     - ### Ex009
@@ -142,56 +142,72 @@
 
     - ### Example002_EnterYorName
 
-        > Введите ваше имя<br>
+        > Введите ваше имя.<br>
         [КОД](Lecture/Lecture_01/Example002_EnterYorName/Program.cs)
 
     - ### Example003_AddTwoRandomNumbers
 
-        > Сложить два рандомных числа<br>
+        > Сложить два рандомных числа.<br>
         [КОД](Lecture/Lecture_01/Example003_AddTwoRandomNumbers/Program.cs)
 
     - ### Example004_Div
 
-        > Деление чисел<br>
+        > Деление чисел.<br>
         [КОД](Lecture/Lecture_01/Example004_Div/Program.cs)
 
     - ### Example005_ConditionifElse
 
-        > Условие if-else<br>
+        > Условие if-else.<br>
         [КОД](Lecture/Lecture_01/Example005_ConditionifElse/Program.cs)
 
     - ### Example006_Base
 
-        > Нахождение максимального числа<br>
+        > Нахождение максимального числа.<br>
         [КОД](Lecture/Lecture_01/Example006_Base/Program.cs)
 
     - ### Example007_Magic
 
-        > Серпинский треугольник в консоли<br>
+        > Серпинский треугольник в консоли.<br>
         [КОД](Lecture/Lecture_01/Example007_Magic/Program.cs)
 
 - ## Lecture_02
 
     - ### Example008_IntroMethod
 
-        > Введение в методы<br>
+        > Введение в методы.<br>
         [КОД](Lecture/Lecture_02/Example008_IntroMethod/Program.cs)
 
     - ### Example009_IntroArray
 
-        > Введение в массивы<br>
+        > Введение в массивы.<br>
         [КОД](Lecture/Lecture_02/Example009_IntroArray/Program.cs)
 
     - ### Example010_MethodArray
 
-        > Методы и массивы<br>
+        > Методы и массивы.<br>
         [КОД](Lecture/Lecture_02/Example010_MethodArray/Program.cs)
 
     - ### Example011_ArrayLibrary
 
-        > Библиотека массивов<br>
+        > Библиотека массивов.<br>
         [КОД](Lecture/Lecture_02/Example010_MethodArray/Program.cs)
 
+- ## Lecture_02
+
+    - ### Example_multiTabe
+
+        > Вложенные циклы. Таблица умножения.<br>
+        [КОД](Lecture/Lecture_03/Example_multiTabe/Program.cs)
+
+    - ### Example_replaceSymbol
+
+        > Работа с текстом. Замена символов.<br>
+        [КОД](Lecture/Lecture_03/Example_replaceSymbol/Program.cs)
+
+    - ### Example_sortArray
+
+        > Сортировка массивов.<br>
+        [КОД](Lecture/Lecture_03/Example_sortArray/Program.cs)
 
 # Seminar
 
@@ -199,7 +215,7 @@
 
     - ### Ex000
 
-        > Вывести квадрат числа<br>
+        > Вывести квадрат числа.<br>
         [КОД](Seminar/Seminar_01/Ex000/Program.cs)<br>
         [Блок-схема](Seminar/Seminar_01/Ex000/diagram.drawio.png)
 
@@ -207,14 +223,14 @@
 
     - ### Ex015
 
-        > Проверить кратно ли введенное число 7 и 23<br>
+        > Проверить кратно ли введенное число 7 и 23.<br>
         [КОД](Seminar/Seminar_02/Ex015/Program.cs)
 
 - ## Seminar_03
 
     - ### Ex024
 
-        > Написать программу, которая показывает кубы чисел от 1 до N<br>
+        > Написать программу, которая показывает кубы чисел от 1 до N.<br>
         [Библиотека методов](Homework/Seminar_03/Ex024/Library.cs)<br>
         [КОД](Seminar/Seminar_03/Ex024/Program.cs)
 
@@ -222,7 +238,7 @@
 
     - ### Example30
 
-        > Написать программу, которая выводит массив из N элементов, заполненный 0 и 1 в случайном порядке, где первый элемент массива не равен 0<br>
+        > Написать программу, которая выводит массив из N элементов, заполненный 0 и 1 в случайном порядке, где первый элемент массива не равен 0.<br>
         [Библиотека методов](Homework/Seminar_04/Example30/Library.cs)<br>
         [КОД](Seminar/Seminar_04/Example30/Program.cs)
 
@@ -230,7 +246,7 @@
 
     - ### Ex033
 
-        > Задать массив из 12 элементов, заполненных числами из [0,9]. Найти сумму положительных/отрицательных элементов массива<br>
+        > Задать массив из 12 элементов, заполненных числами из [0,9]. Найти сумму положительных/отрицательных элементов массива.<br>
         [Библиотека методов](Homework/Seminar_05/Ex033/Library.cs)<br>
         [КОД](Seminar/Seminar_05/Ex033/Program.cs)
 
@@ -238,6 +254,6 @@
 
     - ### Example_turnArray
 
-        > Задать массив из 12 элементов, заполненных числами из [0,9]. Найти сумму положительных/отрицательных элементов массива<br>
+        > Задать одномерный массив и перевернуть его, где последний элемент будет на первом месте, а первый - на последнем и т.д.<br>
         [Библиотека методов](Homework/Seminar_06/Example_turnArray/Library.cs)<br>
         [КОД](Seminar/Seminar_06/Example_turnArray/Program.cs)
