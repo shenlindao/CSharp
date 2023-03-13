@@ -131,6 +131,18 @@
         [Библиотека методов](Homework/Homework_05/Ex040/Library.cs)<br>
         [КОД](Homework/Homework_05/Ex040/Program.cs)
 
+- ## Homework_06
+
+    - ### Ex041
+        > Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.<br>
+        [Библиотека методов](Homework/Homework_06/Ex041/Library.cs)<br>
+        [КОД](Homework/Homework_06/Ex041/Program.cs)
+
+    - ### Ex044
+        > Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.<br>
+        [Библиотека методов](Homework/Homework_06/Ex044/Library.cs)<br>
+        [КОД](Homework/Homework_06/Ex044/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
