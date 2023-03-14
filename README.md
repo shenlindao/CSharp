@@ -227,6 +227,16 @@
 
         > Двумерные массивы.<br>
         [КОД](Lecture/Lecture_04/Example013_RecursionAlgorithm/Program.cs)
+    
+    - ### Example014_TwoDimensionalArray
+
+        > Двумерные массивы.<br>
+        [КОД](Lecture/Lecture_04/Example014_TwoDimensionalArray/Program.cs)
+
+    - ### Example015_Fill2DArray
+
+        > Двумерные массивы.<br>
+        [КОД](Lecture/Lecture_04/Example015_Fill2DArray/Program.cs)
 
 # Seminar
 
