@@ -26,10 +26,6 @@ public static class Library
             {
                 sum += array[i];
             }
-            else
-            {
-                continue;
-            }
         }
         return sum;
     }

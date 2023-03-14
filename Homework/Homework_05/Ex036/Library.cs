@@ -26,10 +26,6 @@ public static class Library
             {
                 positive += 1;
             }
-            else
-            {
-                continue;
-            }
         }
         return positive;
     }

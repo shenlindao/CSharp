@@ -23,7 +23,7 @@ public static class Library
         int min = 0;
         int max = 0;
         string output = String.Empty;
-        for (int i = 0; i < array.Length - 1; i++)
+        for (int i = 0; i < array.Length; i++)
         {
             if (array[i] < array[min])
             {
