@@ -204,7 +204,7 @@
         > Библиотека массивов.<br>
         [КОД](Lecture/Lecture_02/Example010_MethodArray/Program.cs)
 
-- ## Lecture_02
+- ## Lecture_03
 
     - ### Example_multiTabe
 
@@ -220,6 +220,13 @@
 
         > Сортировка массивов.<br>
         [КОД](Lecture/Lecture_03/Example_sortArray/Program.cs)
+
+- ## Lecture_04
+
+    - ### Example013_RecursionAlgorithm
+
+        > Двумерные массивы.<br>
+        [КОД](Lecture/Lecture_04/Example013_RecursionAlgorithm/Program.cs)
 
 # Seminar
 
