@@ -34,6 +34,7 @@ public static class Library
     // x = (b1 - b2) / (k2 - k1)
     // y = ((k2 * b1) - (k1 * b2)) / (k2 - k1)
 
+    // Эти прямые параллельны, если (k2 = k1) => (k2 - k1) == 0
     public static bool errString(double?[] value)
     {
         return value[3] - value[1] == 0 ? true : false;
