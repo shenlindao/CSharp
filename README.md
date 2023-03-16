@@ -143,6 +143,13 @@
         [Библиотека методов](Homework/Homework_06/Ex044/Library.cs)<br>
         [КОД](Homework/Homework_06/Ex044/Program.cs)
 
+- ## Homework_07
+
+    - ### Ex051
+        > Задать двумерный массив следующим правилом: Aₘₙ = m+n.<br>
+        [Библиотека методов](Homework/Homework_07/Ex051/Library.cs)<br>
+        [КОД](Homework/Homework_07/Ex051/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
@@ -286,3 +293,11 @@
         > Задать одномерный массив и перевернуть его, где последний элемент будет на первом месте, а первый - на последнем и т.д.<br>
         [Библиотека методов](Seminar/Seminar_06/Example_turnArray/Library.cs)<br>
         [КОД](Seminar/Seminar_06/Example_turnArray/Program.cs)
+
+- ## Seminar_07
+
+    - ### Example_sumMatrix
+
+        > Задать две матрицы размером 3 x 4 со случайными числами от 1 до 20 и найти сумму этих двух матриц.<br>
+        [Библиотека методов](Seminar/Seminar_07/Example_sumMatrix/Library.cs)<br>
+        [КОД](Seminar/Seminar_07/Example_sumMatrix/Program.cs)

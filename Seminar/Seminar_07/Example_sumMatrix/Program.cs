@@ -1,6 +1,7 @@
 ﻿using static Library;
 
 Console.Clear();
+Console.WriteLine("Программа задаёт две матрицы размером 3 x 4 со случайными числами от 1 до 20 и находит сумму этих двух матриц.");
 int[,] arrayA = new int[3, 4];
 int[,] arrayB = new int[3, 4];
 
