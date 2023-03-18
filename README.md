@@ -150,6 +150,11 @@
         [Библиотека методов](Homework/Homework_07/Ex051/Library.cs)<br>
         [КОД](Homework/Homework_07/Ex051/Program.cs)
 
+    - ### Ex053
+        > Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.<br>
+        [Библиотека методов](Homework/Homework_07/Ex053/Library.cs)<br>
+        [КОД](Homework/Homework_07/Ex053/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
