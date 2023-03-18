@@ -155,6 +155,11 @@
         [Библиотека методов](Homework/Homework_07/Ex053/Library.cs)<br>
         [КОД](Homework/Homework_07/Ex053/Program.cs)
 
+    - ### Ex055
+        > Дан целочисленный массив. Найти среднее арифметическое каждого из столбцов.<br>
+        [Библиотека методов](Homework/Homework_07/Ex055/Library.cs)<br>
+        [КОД](Homework/Homework_07/Ex055/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
