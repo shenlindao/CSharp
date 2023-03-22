@@ -160,6 +160,33 @@
         [Библиотека методов](Homework/Homework_07/Ex055/Library.cs)<br>
         [КОД](Homework/Homework_07/Ex055/Program.cs)
 
+- ## Homework_08
+
+    - ### Ex057
+        > .<br>
+        [Библиотека методов](Homework/Homework_08/Ex057/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex057/Program.cs)
+
+    - ### Ex059
+        > .<br>
+        [Библиотека методов](Homework/Homework_08/Ex057/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex057/Program.cs)
+
+    - ### Ex061
+        > .<br>
+        [Библиотека методов](Homework/Homework_08/Ex061/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex061/Program.cs)
+
+    - ### Ex063
+        > .<br>
+        [Библиотека методов](Homework/Homework_08/Ex063/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex063/Program.cs)
+
+    - ### Ex065
+        > .<br>
+        [Библиотека методов](Homework/Homework_08/Ex065/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex065/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
