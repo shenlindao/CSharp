@@ -163,27 +163,27 @@
 - ## Homework_08
 
     - ### Ex057
-        > .<br>
+        > Написать программу, упорядочивания по убыванию элементы каждой строки двумерной массива.<br>
         [Библиотека методов](Homework/Homework_08/Ex057/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex057/Program.cs)
 
     - ### Ex059
-        > .<br>
-        [Библиотека методов](Homework/Homework_08/Ex057/Library.cs)<br>
-        [КОД](Homework/Homework_08/Ex057/Program.cs)
+        > В прямоугольной матрице найти строку с наименьшей суммой элементов.<br>
+        [Библиотека методов](Homework/Homework_08/Ex059/Library.cs)<br>
+        [КОД](Homework/Homework_08/Ex059/Program.cs)
 
     - ### Ex061
-        > .<br>
+        > Найти произведение двух матриц.<br>
         [Библиотека методов](Homework/Homework_08/Ex061/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex061/Program.cs)
 
     - ### Ex063
-        > .<br>
+        > Сформировать трехмерный массив не повторяющимися двузначными числами показать его построчно на экран выводя индексы соответствующего элемента.<br>
         [Библиотека методов](Homework/Homework_08/Ex063/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex063/Program.cs)
 
     - ### Ex065
-        > .<br>
+        > Спирально заполнить двумерный массив.<br>
         [Библиотека методов](Homework/Homework_08/Ex065/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex065/Program.cs)
 
