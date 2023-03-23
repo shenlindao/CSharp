@@ -183,7 +183,7 @@
         [КОД](Homework/Homework_08/Ex063/Program.cs)
 
     - ### Ex065
-        > Спирально заполнить двумерный массив.<br>
+        > Напишите программу, которая заполнит спирально массив 4 на 4.<br>
         [Библиотека методов](Homework/Homework_08/Ex065/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex065/Program.cs)
 
