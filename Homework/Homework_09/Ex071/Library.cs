@@ -24,9 +24,11 @@ public static class Library
         return (M, N);
     }
 
-    public static int ElemSum(int M, int N)
+    public static int Akkerman(int M, int N)
     {
-        if (M > N) return 0;
-        return M + ElemSum(M + 1, N);
+        if (M == 0) return N + 1;
+        if (M > 0 && N == 0) return Akkerman(M - 1, 1);
+        if (M > 0 && N > 0) return Akkerman(M - 1, Akkerman(M, N - 1));
+        return Akkerman(M, N);
     }
 }
