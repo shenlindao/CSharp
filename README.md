@@ -187,6 +187,23 @@
         [Библиотека методов](Homework/Homework_08/Ex065/Library.cs)<br>
         [КОД](Homework/Homework_08/Ex065/Program.cs)
 
+- ## Homework_09
+
+    - ### Ex067
+        > Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.<br>
+        [Библиотека методов](Homework/Homework_09/Ex067/Library.cs)<br>
+        [КОД](Homework/Homework_09/Ex067/Program.cs)
+
+    - ### Ex069
+        > Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.<br>
+        [Библиотека методов](Homework/Homework_09/Ex069/Library.cs)<br>
+        [КОД](Homework/Homework_09/Ex069/Program.cs)
+
+    - ### Ex071
+        > Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа M и N.<br>
+        [Библиотека методов](Homework/Homework_09/Ex071/Library.cs)<br>
+        [КОД](Homework/Homework_09/Ex071/Program.cs)
+
 # Lecture
 
 - ## Lecture_02
